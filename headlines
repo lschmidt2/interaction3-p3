@@ -1,0 +1,345 @@
+[
+    {
+        “newsite”: “THEONION”,
+        “headline”: “Assistant Coach Finally Works Up Courage To Blow Whistle”,
+        “genre”: “SPORTS”
+    },
+    {
+        “newsite”: “THEONION”,
+        “headline”: “Giants Excited About Seeing Real NFL End Zone Up Close”,
+        “genre”: “SPORTS”
+    },
+    {
+        “newsite”: “THEONION”,
+        “headline”: “Only 4 Drivers Left Alive Go Into Final NASCAR Race Of Season”,
+        “genre”: “SPORTS”
+    },
+    {
+        “newsite”: “THEONION”,
+        “headline”: “Should NASCAR Ban Uber Drivers?“,
+        “genre”: “SPORTS”
+    },
+    {
+        “newsite”: “THEONION”,
+        “headline”: “Can The Browns Still Rely On Josh Gordon For Quality Weed?“,
+        “genre”: “VIDEO”
+    },
+    {
+        “newsite”: “THEONION”,
+        “headline”: “How Many Children Does Philip Rivers Have Left In Him?“,
+        “genre”: “VIDEO”
+    },
+    {
+        “newsite”: “THEONION”,
+        “headline”: “Should Belichick Miss The Birth Of His Demon Spawn To Coach Game?“,
+        “genre”: “VIDEO”
+    },
+    {
+        “newsite”: “DAZED”,
+        “headline”: “Did Wes Anderson mock Charlie Rose in The Royal Tenebaums?“,
+        “genre”: “FILM & TV”
+    },
+    {
+        “newsite”: “DAZED”,
+        “headline”: “The synopsis of Tarantino’s next film has been revealed”,
+        “genre”: “FILM & TV”
+    },
+    {
+        “newsite”: “DAZED”,
+        “headline”: “Materialistic people have more Facebook friends”,
+        “genre”: “SCIENCE & TECH”
+    },
+    {
+        “newsite”: “DAZED”,
+        “headline”: “David Lynch designed a jewellery collection”,
+        “genre”: “FASHION”
+    },
+    {
+        “newsite”: “DAZED”,
+        “headline”: “Alice Glass served court summons from Ethan Kath by fake fan”,
+        “genre”: “MUSIC”
+    },
+    {
+        “newsite”: “DAZED”,
+        “headline”: “Lena Dunham apologises for sexual assult comments”,
+        “genre”: “LIFE & CULTURE”
+    },
+    {
+        “newsite”: “DAZED”,
+        “headline”: “Morrissey defends Spacey and Weinstein while blaming victims”,
+        “genre”: “MUSIC”
+    },
+    {
+        “newsite”: “VOX”,
+        “headline”: “Donald Trump says he’s “happy” sexual assault is being exposed, as if no one knows what Trump is accused of”,
+        “genre”: “POLITICS & POLICY”
+    },
+    {
+        “newsite”: “VOX”,
+        “headline”: “There’s a little-known fund that goes to victims of sexual harassment on the Hill. You pay for it.“,
+        “genre”: “POLITICS & POLICY”
+    },
+    {
+        “newsite”: “VOX”,
+        “headline”: “Bashar al-Assad is taking a sickening victory lap through Russia”,
+        “genre”: “WORLD”
+    },
+    {
+        “newsite”: “VOX”,
+        “headline”: “Leaked report: the Trump administration violated court orders in January’s travel ban”,
+        “genre”: “POLITICS & POLICY”
+    },
+    {
+        “newsite”: “VOX”,
+        “headline”: “Net neutrality is dying with a whimper”,
+        “genre”: “CULTURE”
+    },
+    {
+        “newsite”: “VOX”,
+        “headline”: “Call Me by Your Name is an erotic film in every sense of the word. It’s also a masterpiece.“,
+        “genre”: “CULTURE”
+    },
+    {
+        “newsite”: “VOX”,
+        “headline”: “The air in Delhi got so bad this month it was like smoking 50 cigarettes a day”,
+        “genre”: “ENERGY & ENVIROMENT”
+    },
+    {
+        “newsite”: “CNN”,
+        “headline”: “Trump defends Moore: ‘Look, he denies it’“,
+        “genre”: “POLITICS  ”
+    },
+    {
+        “newsite”: “CNN”,
+        “headline”: “Moore says he first noticed his wife when she was a teen”,
+        “genre”: “POLITICS  ”
+    },
+    {
+        “newsite”: “CNN”,
+        “headline”: “36 women who worked on ‘SNL’ stand up for Fraken”,
+        “genre”: “MONEY”
+    },
+    {
+        “newsite”: “CNN”,
+        “headline”: “Man who lost nose, mouth drescribes vicious bear attack”,
+        “genre”: “HEALTH”
+    },
+    {
+        “newsite”: “CNN”,
+        “headline”: “Alibaba gobbles up stake in China’s Walmart”,
+        “genre”: “TECHNOLOGY”
+    },
+    {
+        “newsite”: “CNN”,
+        “headline”: “Those coming after Robert Mugabe are not good, clean men”,
+        “genre”: “OPINION”
+    },
+    {
+        “newsite”: “CNN”,
+        “headline”: “Trump administration slaps more sanctions on North Korea”,
+        “genre”: “MONEY”
+    },
+    {
+        “newsite”: “MSNBC”,
+        “headline”: “Donna Brazile: 2016 was not a legitimate election”,
+        “genre”: “HARDBALL”
+    },
+    {
+        “newsite”: “MSNBC”,
+        “headline”: “Why evangelical leaders are standing by Trump”,
+        “genre”: “RELIGION”
+    },
+    {
+        “newsite”: “MSNBC”,
+        “headline”: “Our old familiar globe is gone”,
+        “genre”: “GREEN”
+    },
+    {
+        “newsite”: “MSNBC”,
+        “headline”: “Is there a women’s advocate in the White House?“,
+        “genre”: “EQUALITY”
+    },
+    {
+        “newsite”: “MSNBC”,
+        “headline”: “New York’s Chelsea bomber found guilty of all charges”,
+        “genre”: “EDUCATION”
+    },
+    {
+        “newsite”: “MSNBC”,
+        “headline”: “Trump sex harassment accuser seeks campaign documents at court”,
+        “genre”: “VIDEO”
+    },
+    {
+        “newsite”: “MSNBC”,
+        “headline”: “Uber reveals hackers stole 57 million riders and drivers”,
+        “genre”: “VIDEO”
+    },
+    {
+        “newsite”: “ALJAZEERA”,
+        “headline”: “Jubilation in Zimbabwe as Mugabe era ends”,
+        “genre”: “AFRICA”
+    },
+    {
+        “newsite”: “ALJAZEERA”,
+        “headline”: “All eyes on Beirut as Saad Hariri returns”,
+        “genre”: “MIDDLE EAST”
+    },
+    {
+        “newsite”: “ALJAZEERA”,
+        “headline”: “How the world reacted to Robert Mugabe’s resignation”,
+        “genre”: “AFRICA”
+    },
+    {
+        “newsite”: “ALJAZEERA”,
+        “headline”: “Is the war in Syria really almost over?“,
+        “genre”: “MIDDLE EAST”
+    },
+    {
+        “newsite”: “ALJAZEERA”,
+        “headline”: “Ratko Mladic: A symbol of the project of evil”,
+        “genre”: “REPORTER’S NOTEBOOK”
+    },
+    {
+        “newsite”: “ALJAZEERA”,
+        “headline”: “South Korea marks unhappy anniversary of Asia’s financial crisis”,
+        “genre”: “BUSINESS & ECONOMY”
+    },
+    {
+        “newsite”: “ALJAZEERA”,
+        “headline”: “Trump names North Korea ‘a state sponsor of terror’“,
+        “genre”: “POLITICS”
+    },
+    {
+        “newsite”: “BREITBART”,
+        “headline”: “Border patrol agent assulted in Arizona”,
+        “genre”: “TEXAS”
+    },
+    {
+        “newsite”: “BREITBART”,
+        “headline”: “Ray Allen tells Orlando court he was ‘catfished’“,
+        “genre”: “NEWS”
+    },
+    {
+        “newsite”: “BREITBART”,
+        “headline”: “Japan bans all US troops in Okinawa from drinking after fatal suspected DUI”,
+        “genre”: “NATIONAL SECURITY”
+    },
+    {
+        “newsite”: “BREITBART”,
+        “headline”: “DHS prepares plan to end work permits for foreign H-1B spouses”,
+        “genre”: “BIG GOVERNMENT”
+    },
+    {
+        “newsite”: “BREITBART”,
+        “headline”: “Actress Julianna Margulies details alleged ‘horrific’ hotel room incidents with Harvey Weinstein”,
+        “genre”: “BIG HOLLYWOOD”
+    },
+    {
+        “newsite”: “BREITBART”,
+        “headline”: “Gun-controlled chicago passes 600 homicides for year”,
+        “genre”: “BIG GOVERNMENT”
+    },
+    {
+        “newsite”: “BREITBART”,
+        “headline”: “White house counsel makes case for Trump’s conservative judges”,
+        “genre”: “BIG GOVERNMENT”
+    },
+    {
+        “newsite”: “THEHUFFINGTONPOST”,
+        “headline”: “This anti-gay interpretive flag dance may be the gayest thing we’ve ever seen “,
+        “genre”: “QUEER VOICES”
+    },
+    {
+        “newsite”: “THEHUFFINGTONPOST”,
+        “headline”: “What 3 meetings with Charlie Rose taught me about toxic sexism and blurred lines”,
+        “genre”: “MEDIA”
+    },
+    {
+        “newsite”: “THEHUFFINGTONPOST”,
+        “headline”: “FCC announces plans to repeal net neutrality”,
+        “genre”: “POLITICS”
+    },
+    {
+        “newsite”: “THEHUFFINGTONPOST”,
+        “headline”: “Whitefish shuts down operations in Puerto Rico claims it’s owed $83 million”,
+        “genre”: “U.S. NEWS”
+    },
+    {
+        “newsite”: “THEHUFFINGTONPOST”,
+        “headline”: “Police were told to keep Roy Moore away from high school cheerleaders, retired officer says”,
+        “genre”: “POLITICS”
+    },
+    {
+        “newsite”: “THEHUFFINGTONPOST”,
+        “headline”: “Illegal student labor used to assemble iPhone X, Apple admits”,
+        “genre”: “WORLD NEWS”
+    },
+    {
+        “newsite”: “THEHUFFINGTONPOST”,
+        “headline”: “Zero hope for denuclearizing North Korea,' China expert says”,
+        “genre”: “WORLD NEWS”
+    },
+    {
+        “newsite”: “VICE”,
+        “headline”: “The tattoo artists who care more about pain than a finished product”,
+        “genre”: “VIDEO”
+    },
+    {
+        “newsite”: “VICE”,
+        “headline”: “How to know if you are a ‘hipster racist’“,
+        “genre”: “ADVICE”
+    },
+    {
+        “newsite”: “VICE”,
+        “headline”: “Is the Mexican government spying on journalists?“,
+        “genre”: “VICELAND”
+    },
+    {
+        “newsite”: “VICE”,
+        “headline”: “How to handle being Ghosted by a friend”,
+        “genre”: “FRIENDSHIP”
+    },
+    {
+        “newsite”: “VICE”,
+        “headline”: “The head of Pixar is taking leave after sexual misconduct allegations”,
+        “genre”: “THE VICE GUIDE TO RIGHT NOW”
+    },
+    {
+        “newsite”: “VICE”,
+        “headline”: “Spain’s trans athletes are fighting to stay on the field”,
+        “genre”: “DAILY VICE”
+    },
+    {
+        “newsite”: “VICE”,
+        “headline”: “How to protect yourself from the Wi-Fi pineapple”,
+        “genre”: “THE VICE GUIDE TO RIGHT NOW PODCAST”
+    },
+    {
+        “newsite”: “INFOWARS”,
+        “headline”: “Trump jokes about revoking pardon of Obama-era turkeys”
+    },
+    {
+        “newsite”: “INFOWARS”,
+        “headline”: “2017: Humanity under attack by social engineering”
+    },
+    {
+        “newsite”: “INFOWARS”,
+        “headline”: “ISIS calls for Barron Trump’s assassination”
+    },
+    {
+        “newsite”: “INFOWARS”,
+        “headline”: “Border patrol agent killed: will DHS pick kill Trump’s border agenda?”
+    },
+    {
+        “newsite”: “INFOWARS”,
+        “headline”: “DOJ won’t block $600 million CIA contract to Amazon.com - Why?”
+    },
+    {
+        “newsite”: “INFOWARS”,
+        “headline”: “Breaking: Head of google announces plan to censor Russian news! False flag imminent”
+    },
+    {
+        “newsite”: “INFOWARS”,
+        “headline”: “What’s the truth about the first Thanksgiving?”
+    }
+]
